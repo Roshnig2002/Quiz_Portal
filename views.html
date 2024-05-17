@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Portal</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div id="categorySelection">
+            <input type="email" id="email" placeholder="Enter your email" required>
+            <div id="emailError" style="color: red; display: none;">Please enter a valid email address.</div>
+            <br>
+            <select id="category">
+                <option value="Math">Math</option>
+                <option value="Science">Science</option>
+            </select>
+            <br>
+            <select id="difficulty">
+                <option value="easy">Easy</option>
+                <option value="medium">Medium</option>
+                <option value="hard">Hard</option>
+            </select>
+            <br>
+            <button onclick="startQuiz()">Start Quiz</button>
+        </div>
+
+        <div id="quizPage">
+            <div id="timer">Time Left: 00:00</div>
+            <div id="questionContainer"></div>
+            <button id="prevBtn" onclick="prevQuestion()" style="display: none;">Previous</button>
+            <button id="nextBtn" onclick="nextQuestion()">Next</button>
+        </div>
+        
+        <div id="resultPage">
+            <h2>Quiz Results</h2>
+            <div id="score"></div>
+            <div id="timeTaken"></div>
+            <div id="userResponses"></div>
+        </div>
+    </div>
+    <script src="quiz.js"></script>
+</body>
+</html>

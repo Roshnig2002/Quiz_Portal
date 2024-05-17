@@ -1,0 +1,219 @@
+[
+      {
+        "category": "Math",
+        "difficulty": "easy",
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "correct_answer": "4"
+      },
+      {
+        "category": "Math",
+        "difficulty": "easy",
+        "question": "What is 5 - 3?",
+        "options": ["1", "2", "3", "4"],
+        "correct_answer": "2"
+      },
+      {
+        "category": "Math",
+        "difficulty": "easy",
+        "question": "What is 3 * 3?",
+        "options": ["6", "7", "8", "9"],
+        "correct_answer": "9"
+      },
+      {
+        "category": "Math",
+        "difficulty": "easy",
+        "question": "What is 10 divided by 2?",
+        "options": ["2", "3", "4", "5"],
+        "correct_answer": "5"
+      },
+      {
+        "category": "Math",
+        "difficulty": "easy",
+        "question": "What is 7 + 6?",
+        "options": ["12", "13", "14", "15"],
+        "correct_answer": "13"
+      },
+      
+      {
+        "category": "Math",
+        "difficulty": "medium",
+        "question": "What is the square root of 16?",
+        "options": ["3", "4", "5", "6"],
+        "correct_answer": "4"
+      },
+      {
+        "category": "Math",
+        "difficulty": "medium",
+        "question": "What is 12 * 12?",
+        "options": ["124", "134", "144", "154"],
+        "correct_answer": "144"
+      },
+      {
+        "category": "Math",
+        "difficulty": "medium",
+        "question": "What is 25 divided by 5?",
+        "options": ["4", "5", "6", "7"],
+        "correct_answer": "5"
+      },
+      {
+        "category": "Math",
+        "difficulty": "medium",
+        "question": "What is the cube root of 27?",
+        "options": ["2", "3", "4", "5"],
+        "correct_answer": "3"
+      },
+      {
+        "category": "Math",
+        "difficulty": "medium",
+        "question": "What is the value of π (pi) up to 2 decimal places?",
+        "options": ["3.12", "3.14", "3.16", "3.18"],
+        "correct_answer": "3.14"
+      },
+  
+      {
+        "category": "Math",
+        "difficulty": "hard",
+        "question": "What is the derivative of x^2?",
+        "options": ["x", "2x", "x^2", "2"],
+        "correct_answer": "2x"
+      },
+      {
+        "category": "Math",
+        "difficulty": "hard",
+        "question": "What is the integral of 2x?",
+        "options": ["x^2", "2x^2", "x^2 + C", "2x^2 + C"],
+        "correct_answer": "x^2 + C"
+      },
+      {
+        "category": "Math",
+        "difficulty": "hard",
+        "question": "Solve for x: 2x + 3 = 11",
+        "options": ["3", "4", "5", "6"],
+        "correct_answer": "4"
+      },
+      {
+        "category": "Math",
+        "difficulty": "hard",
+        "question": "What is the limit of (x^2 - 1)/(x - 1) as x approaches 1?",
+        "options": ["0", "1", "2", "3"],
+        "correct_answer": "2"
+      },
+      {
+        "category": "Math",
+        "difficulty": "hard",
+        "question": "What is the value of e (Euler's number) up to 2 decimal places?",
+        "options": ["2.71", "2.72", "2.73", "2.74"],
+        "correct_answer": "2.72"
+      },
+  
+      {
+        "category": "Science",
+        "difficulty": "easy",
+        "question": "What planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correct_answer": "Mars"
+      },
+      {
+        "category": "Science",
+        "difficulty": "easy",
+        "question": "What is the chemical symbol for water?",
+        "options": ["O2", "H2O", "CO2", "H2"],
+        "correct_answer": "H2O"
+      },
+      {
+        "category": "Science",
+        "difficulty": "easy",
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "correct_answer": "Carbon Dioxide"
+      },
+      {
+        "category": "Science",
+        "difficulty": "easy",
+        "question": "What is the nearest planet to the Sun?",
+        "options": ["Earth", "Venus", "Mercury", "Mars"],
+        "correct_answer": "Mercury"
+      },
+      {
+        "category": "Science",
+        "difficulty": "easy",
+        "question": "What is the boiling point of water?",
+        "options": ["90°C", "95°C", "100°C", "105°C"],
+        "correct_answer": "100°C"
+      },
+  
+      {
+        "category": "Science",
+        "difficulty": "medium",
+        "question": "What is the main gas found in the air we breathe?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "correct_answer": "Nitrogen"
+      },
+      {
+        "category": "Science",
+        "difficulty": "medium",
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Platinum"],
+        "correct_answer": "Diamond"
+      },
+      {
+        "category": "Science",
+        "difficulty": "medium",
+        "question": "What planet is known as the Earth's twin?",
+        "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+        "correct_answer": "Venus"
+      },
+      {
+        "category": "Science",
+        "difficulty": "medium",
+        "question": "What is the chemical formula for salt?",
+        "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+        "correct_answer": "NaCl"
+      },
+      {
+        "category": "Science",
+        "difficulty": "medium",
+        "question": "What part of the cell contains genetic material?",
+        "options": ["Nucleus", "Cytoplasm", "Membrane", "Ribosome"],
+        "correct_answer": "Nucleus"
+      },
+  
+      {
+        "category": "Science",
+        "difficulty": "hard",
+        "question": "What is the speed of light?",
+        "options": ["3 x 10^8 m/s", "3 x 10^6 m/s", "3000 km/s", "30 km/s"],
+        "correct_answer": "3 x 10^8 m/s"
+      },
+      {
+        "category": "Science",
+        "difficulty": "hard",
+        "question": "What is the second law of thermodynamics?",
+        "options": ["Energy cannot be created or destroyed", "Entropy of an isolated system always increases", "For every action, there is an equal and opposite reaction", "The acceleration of an object is directly proportional to the net force"],
+        "correct_answer": "Entropy of an isolated system always increases"
+      },
+      {
+        "category": "Science",
+        "difficulty": "hard",
+        "question": "What is the most abundant element in the universe?",
+        "options": ["Oxygen", "Carbon", "Hydrogen", "Helium"],
+        "correct_answer": "Hydrogen"
+      },
+      {
+        "category": "Science",
+        "difficulty": "hard",
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Ribosome", "Mitochondria", "Chloroplast"],
+        "correct_answer": "Mitochondria"
+      },
+      {
+        "category": "Science",
+        "difficulty": "hard",
+        "question": "What is the Heisenberg Uncertainty Principle?",
+        "options": ["It is impossible to know exactly both the velocity and the position of a particle at the same time", "Energy and mass are equivalent", "Every action has an equal and opposite reaction", "The entropy of an isolated system always increases"],
+        "correct_answer": "It is impossible to know exactly both the velocity and the position of a particle at the same time"
+      }
+]
+  
+  
