@@ -1,4 +1,3 @@
-#** Quiz Portal**
 
 This project is an online quiz portal that allows users to select a quiz category and difficulty level, answer a series of questions, and receive their results upon completion.
 
